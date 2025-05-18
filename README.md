@@ -7,4 +7,5 @@ pasos :
 4. activar  el modelo con las respectivas capas y el optimizador adam con epocas 15 
 5. importar matplotlib para graficar
 6. verificar que si predice bien se pone verde  y si predice mal en rojo y poner las coordenadas
-7. visualizar usando la matriz de cofunsion 
+7. visualizar usando la matriz de cofunsion
+8. 
